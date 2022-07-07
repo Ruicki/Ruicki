@@ -1,11 +1,13 @@
 <center>
-<hr>
+<hr = size"5">
 - <H1>👋 Hola, soy @Ruicki</h1>
-- 👀 me interesa aprender y ampliar mi programación ...
+<br>
+- <h2>👀 me interesa aprender y ampliar mi programación ...
 - 🌱 Estoy estudiando Programacion y dandole ...
 - 💞️ busco colaborar si alguien esta dispuesto seria great ...
 - 📫 me gustaria lograr hacer buenas paginas web y aplicaciones ...
-<hr>
+<br>
+<hr= size"5">
 <center>
 <!---
 Ruicki/Ruicki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
